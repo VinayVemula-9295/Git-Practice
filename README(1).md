@@ -24,7 +24,8 @@ Enables code reviews before merging
 Makes it easier to track changes
 Simplifies rollback if issues occur
 ## Real-World Workflow
-               <img width="216" height="230" alt="image" src="https://github.com/user-attachments/assets/b706ff5d-6a5c-4644-b505-3893f78e8586" />
+<img width="216" height="230" alt="image" src="https://github.com/user-attachments/assets/ccd8e510-8c1f-4b2b-a5af-fb9b29733952" />
+
 
 ## Repository Structure
 Repository Name
