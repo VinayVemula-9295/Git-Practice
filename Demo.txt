@@ -1,1 +1,5 @@
-This is my first Git practice.
+﻿This is my first Git practice.
+
+I am learning Git.
+I created a feature branch.
+I will merge this into main.
