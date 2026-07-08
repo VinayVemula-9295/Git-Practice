@@ -24,26 +24,8 @@ Enables code reviews before merging
 Makes it easier to track changes
 Simplifies rollback if issues occur
 ## Real-World Workflow
-                GitHub Repository
+               <img width="216" height="230" alt="image" src="https://github.com/user-attachments/assets/b706ff5d-6a5c-4644-b505-3893f78e8586" />
 
-                     main
-                       │
-        ┌──────────────┴──────────────┐
-        │                             │
-feature/login                feature/payment
-        │                             │
-   Developer A                  Developer B
-        │                             │
-      Commit                        Commit
-        │                             │
-      Push                          Push
-        │                             │
-   Pull Request                 Pull Request
-        │                             │
-   Code Review                  Code Review
-        └──────────────┬──────────────┘
-                       │
-                  Merge to Main
 ## Repository Structure
 Repository Name
 Git-Practice
